@@ -1,0 +1,29 @@
+PLINK v1.90b6.21 64-bit (19 Oct 2020)
+Options in effect:
+  --file plink
+  --recode
+  --transpose
+
+Hostname: bananna-victus
+Working directory: /home/bananna/Desktop/SNPproject
+Start time: Tue Feb 21 19:50:08 2023
+
+Note: --transpose flag deprecated.  Use "--recode transpose ...".
+Random number seed: 1676998208
+15635 MB RAM detected; reserving 7817 MB for main workspace.
+Scanning .ped file... done.
+Performing single-pass .bed write (23278 variants, 249 people).
+--file: plink-temporary.bed + plink-temporary.bim + plink-temporary.fam
+written.
+23278 variants loaded from .bim file.
+249 people (0 males, 0 females, 249 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to plink.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 249 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.995547.
+23278 variants and 249 people pass filters and QC.
+Note: No phenotypes present.
+--recode transpose to plink.tped + plink.tfam ... done.
+
+End time: Tue Feb 21 19:50:08 2023
